@@ -1,4 +1,5 @@
-### Hi there 👋 ![](https://visitor-badge.laobi.icu/badge?page_id=ChrisGarey.ChrisGarey)
+### Hi there 👋 I'm Cosmo but you can call me Chris!
+![](https://visitor-badge.laobi.icu/badge?page_id=ChrisGarey.ChrisGarey) [![Github](https://img.shields.io/github/followers/ChrisGarey?label=Follow&style=social)](https://github.com/ChrisGarey)
 
 <!--
 **ChrisGarey/ChrisGarey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
