@@ -1,4 +1,7 @@
 ### Hi there 👋 I'm Cosmo but you can call me Chris!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisGarey)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=ChrisGarey.ChrisGarey) [![Github](https://img.shields.io/github/followers/ChrisGarey?label=Follow&style=social)](https://github.com/ChrisGarey)
 
 I am a self taught programmer with a love for Python:
