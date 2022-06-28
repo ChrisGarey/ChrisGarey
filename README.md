@@ -12,7 +12,7 @@ I am a self taught programmer with a love for Python:
 
 
 ## 🧰 Languages and Tools:
-<code><a href="https://www.python.org/"><img alt="Python" title="Python" src="https://github.com/hussainweb/hussainweb/tree/main/icons/python.png" height="42"></a></code>
+<code><a href="https://www.python.org/"><img alt="Python" title="Python" src="https://github.com/hussainweb/hussainweb/blob/main/icons/python.png" height="42"></a></code>
 <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="https://github.com/hussainweb/hussainweb/blob/main/icons/vscode.png" height="42"></a></code>
 
 
