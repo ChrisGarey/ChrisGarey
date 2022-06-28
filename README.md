@@ -27,8 +27,10 @@ I am a self taught programmer with a love for Python:
 <code><a href="https://ubuntu.com/"><img alt="Ubuntu" title="Ubuntu" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" height="42"></a></code>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisGarey&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisGarey&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisGarey&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChrisGarey&theme=tokyonight)](https://git.io/streak-stats)
+<br>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisGarey&theme=tokyonight)
 
 
 
