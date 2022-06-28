@@ -8,6 +8,6 @@ I am a self taught programmer with a love for Python:
 - 📫 How to reach me: vinylogic@icloud.com...
 - ⚡ Fun fact: I wrote my first script in MSDOS at 8 years old...
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisGarey&theme=tokyonight)
 
 
