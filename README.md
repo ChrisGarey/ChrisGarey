@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ![](https://visitor-badge.laobi.icu/badge?page_id=ChrisGarey.ChrisGarey)
 
 <!--
 **ChrisGarey/ChrisGarey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
