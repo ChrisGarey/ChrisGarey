@@ -30,7 +30,7 @@ I am a self taught programmer with a love for Python:
 <code><a href="https://github.com/features/packages"><img alt="GitHub Packages" title="GitHub Packages" src="https://github.com/cheesits456/cheesits456/raw/master/icons/packages.png" height="42"></a></code>
 <code><a href="https://www.raspberrypi.org"><img alt="Raspberry Pi" title="Raspberry Pi" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" height="42"></a></code>
 <code><a href="https://www.sublimetext.com/"><img alt="Sublime Text" title="Sublime Text" src="https://avatars1.githubusercontent.com/u/684879?s=200&v=4" height="42"></a></code>
-<code><a href="https://ubuntu.com/"><img alt="Ubuntu" title="Ubuntu" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" height="42"></a></code>
+
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisGarey&show_icons=true&theme=tokyonight)
